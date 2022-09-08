@@ -1,0 +1,18 @@
+.mega input{
+    font-size: 1.4rem;
+    width: 50px;
+}
+.mega label{
+    margin-top: 10px;
+    margin-right: 10px;
+    font-size: 1.4rem;
+}
+
+button {
+    margin-top: 10px;
+    background-color: cornflowerblue;
+    border-radius: 10px;
+    color: #fff;
+    font-size: 1.4rem;
+
+}
